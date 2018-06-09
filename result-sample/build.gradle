@@ -38,7 +38,7 @@ dependencies {
     implementation fileTree(dir: 'libs', include: ['*.jar'])
     kapt "com.android.databinding:compiler:$android_tools"
     implementation "org.jetbrains.kotlin:kotlin-stdlib:$kotlin_version"
-
+    
     implementation 'com.android.support:appcompat-v7:27.1.1'
     testImplementation 'junit:junit:4.12'
 
