@@ -1,6 +1,6 @@
-# This repo was created before Kotlin added Result to the stdlib
+# This repo was created before Kotlin added Result to the standard library
 
-Result has been in the Kotlin stdlib for many years now, so archiving this repo.
+Result has been in the Kotlin stdlib since 1.3.0, so archiving this repo.
 
 # Result
 
